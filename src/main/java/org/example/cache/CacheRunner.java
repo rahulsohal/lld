@@ -11,5 +11,14 @@ public class CacheRunner {
         cache.get(4);
         cache.get(2);
         System.out.println(cache);
+
+        TimeMap map = new TimeMap();
+        map.set("foo", "bar",5);
+        map.set("foo", "bar2",10);
+        map.set("foo", "bar3",14);
+        map.get("foo", 4);
+        map.get("foo", 6);
+        map.get("foo", 11);
+
     }
 }
