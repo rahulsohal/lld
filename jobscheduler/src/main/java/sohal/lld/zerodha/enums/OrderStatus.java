@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.enums;public enum OrderStatus {    FAILED,    FILLED,    PARTIALLY_FILLED,    CANCELED,    OPEN;}

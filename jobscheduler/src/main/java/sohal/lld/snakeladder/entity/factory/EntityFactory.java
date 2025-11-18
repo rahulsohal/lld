@@ -1,0 +1,1 @@
+package sohal.lld.snakeladder.entity.factory;import sohal.lld.snakeladder.entity.Entity;import java.util.Set;public interface EntityFactory {    Entity createEntity(Set<Integer> usedPositions);}

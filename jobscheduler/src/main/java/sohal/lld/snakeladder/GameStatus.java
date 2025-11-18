@@ -1,0 +1,1 @@
+package sohal.lld.snakeladder;public enum GameStatus {    NOT_STARTED,    PLAYING,    FINISHED;}

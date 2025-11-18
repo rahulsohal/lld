@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.command;public interface OrderCommand {    void execute();}

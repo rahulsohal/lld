@@ -1,0 +1,1 @@
+package sohal.lld.snakeladder.dice;import java.util.Random;public class Dice {    private final int minVal=1;    private final int maxVal=6;    public int roll() {        Random rand = new Random();        return rand.nextInt(maxVal) + minVal;    }}

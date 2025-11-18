@@ -1,0 +1,1 @@
+package sohal.lld.snakeladder.constants;import java.util.Random;public class Constants {    public static final Integer SIZE = 100;    public static final Random RANDOM = new Random();}

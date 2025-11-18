@@ -1,0 +1,1 @@
+package sohal.lld.chess.entity;public enum Color {    BLACK,    WHITE;}

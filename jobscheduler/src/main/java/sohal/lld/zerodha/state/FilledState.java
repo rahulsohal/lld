@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.state;import sohal.lld.zerodha.order.Order;public class FilledState implements OrderState {    @Override    public void handleOrder(Order order) {        System.out.println("Order has been filled");    }    @Override    public void cancelOrder(Order order) {        System.out.println("Cannot cancel already filled order");    }}

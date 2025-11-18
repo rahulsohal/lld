@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.enums;public enum TransactionType {    BUY,    SELL;}

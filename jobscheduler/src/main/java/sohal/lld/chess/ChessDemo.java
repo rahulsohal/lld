@@ -1,0 +1,1 @@
+package sohal.lld.chess;public class ChessDemo {    public static void run() {        ChessGame chessGame = new ChessGame();        chessGame.setPlayers("Alice", "Bob");        chessGame.start();    }    public static void main(String[] args) {        run();    }}

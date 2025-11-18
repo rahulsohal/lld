@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.state;import sohal.lld.zerodha.order.Order;public interface OrderState {    void handleOrder(Order order);    void cancelOrder(Order order);}

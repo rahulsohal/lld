@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.observer;import sohal.lld.zerodha.entity.Stock;public interface StockObserver {    void update(Stock stock);}

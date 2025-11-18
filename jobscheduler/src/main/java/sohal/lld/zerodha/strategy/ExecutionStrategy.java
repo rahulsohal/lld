@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.strategy;import sohal.lld.zerodha.entity.Stock;public interface ExecutionStrategy {    boolean canExecute(Stock stock);}

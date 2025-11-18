@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.strategy;import sohal.lld.zerodha.entity.Stock;import sohal.lld.zerodha.enums.TransactionType;public class LimitOrderStrategy implements ExecutionStrategy {    private TransactionType transactionType;    @Override    public boolean canExecute(Stock stock) {        return false;    }}

@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.enums;public enum OrderType {    LIMIT,    MARKET;}

@@ -1,0 +1,1 @@
+package sohal.lld.zerodha.strategy;import sohal.lld.zerodha.entity.Stock;public class MarketOrderStrategy implements ExecutionStrategy {    @Override    public boolean canExecute(Stock stock) {        return false;    }}

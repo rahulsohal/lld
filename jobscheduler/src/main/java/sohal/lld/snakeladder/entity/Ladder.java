@@ -1,0 +1,1 @@
+package sohal.lld.snakeladder.entity;public class Ladder extends Entity {    public Ladder(int start, int end) {        super(start, end);    }}
