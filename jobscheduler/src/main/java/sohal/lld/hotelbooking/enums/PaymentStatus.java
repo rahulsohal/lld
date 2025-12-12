@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.enums;public enum PaymentStatus {    PENDING,    REFUNDED,    COMPLETED,    CANCELLED;}

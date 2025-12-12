@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.actors;public class Manager {}

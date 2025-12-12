@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.pricing;import sohal.lld.hotelbooking.entity.Room;public interface PricingStrategy {    double getPrice(Room room);}

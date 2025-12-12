@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.pricing;import sohal.lld.hotelbooking.entity.Room;public class BasePricingStrategy implements PricingStrategy {    public double getPrice(Room room) {        return 1.0;    }}

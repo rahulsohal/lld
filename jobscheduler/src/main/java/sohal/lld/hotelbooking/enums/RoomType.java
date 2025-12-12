@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.enums;public enum RoomType {    SINGLE,    DOUBLE,    DELUXE,    SUITE;}

@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.builder;import sohal.lld.hotelbooking.entity.Room;public class RoomBuilder {    Room room;    public RoomBuilder(Room room) {        this.room = room;    }}

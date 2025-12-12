@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.cancellation;public interface CancellationPolicy {    boolean allowCancellation();    double refundPercentage();}

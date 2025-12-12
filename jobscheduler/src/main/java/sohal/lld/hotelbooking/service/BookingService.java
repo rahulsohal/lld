@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.service;public class BookingService {}

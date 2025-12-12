@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.actors;import sohal.lld.hotelbooking.cancellation.CancellationPolicy;import sohal.lld.hotelbooking.entity.Booking;import sohal.lld.hotelbooking.entity.Room;import java.time.LocalDate;public interface User {    Booking bookRoom(Room room, LocalDate startDate, LocalDate endDate, CancellationPolicy cancellationPolicy);}

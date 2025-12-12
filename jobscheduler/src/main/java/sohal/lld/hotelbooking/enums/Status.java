@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.enums;public enum Status {    CONFIRMED,    CANCELLED,    CHECKED_IN,    CHECKED_OUT;}

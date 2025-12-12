@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.command;public interface BookingCommand {    void execute();}

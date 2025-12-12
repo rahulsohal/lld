@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.payment;import sohal.lld.hotelbooking.enums.PaymentStatus;public class Payment {    private String paymentId;    private String bookingId;    private double amount;    private PaymentStatus paymentStatus;    public void processPayment() {}    public void processRefund() {}}

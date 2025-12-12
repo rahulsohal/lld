@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.entity;import sohal.lld.hotelbooking.pricing.PricingStrategy;public interface Room {    boolean isAvailable();    void markUnavailable();    void markAvailable();    double getPrice();    void updatedPricingStrategy(PricingStrategy pricingStrategy);}

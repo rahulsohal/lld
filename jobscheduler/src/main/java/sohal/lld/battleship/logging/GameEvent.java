@@ -1,0 +1,1 @@
+package sohal.lld.battleship.logging;public class GameEvent {    private final String message;    public GameEvent(String message) { this.message = message; }    public String getMessage() { return message; }    @Override public String toString() { return message; }}

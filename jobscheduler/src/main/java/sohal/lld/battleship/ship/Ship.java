@@ -1,0 +1,1 @@
+package sohal.lld.battleship.ship;import sohal.lld.battleship.model.Coord;import java.util.Set;public interface Ship {    String getId();    Set<Coord> getCells();    boolean isDestroyed();    void destroy();}

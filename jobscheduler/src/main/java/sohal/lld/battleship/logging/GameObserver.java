@@ -1,0 +1,1 @@
+package sohal.lld.battleship.logging;public interface GameObserver {    void onEvent(GameEvent event);}

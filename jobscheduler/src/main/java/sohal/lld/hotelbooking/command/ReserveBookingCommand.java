@@ -1,0 +1,1 @@
+package sohal.lld.hotelbooking.command;import sohal.lld.hotelbooking.actors.User;import sohal.lld.hotelbooking.entity.Room;public class ReserveBookingCommand implements BookingCommand {    private User user;    private Room room;    @Override    public void execute() {    }}
